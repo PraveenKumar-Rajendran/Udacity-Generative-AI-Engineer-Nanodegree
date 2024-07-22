@@ -38,3 +38,5 @@
 ## Udacity - Graduation Certificate
 
 ![Generative AI Nanodegree](assets/GenerativeAI-Nanodegree.png)
+
+Check out the Syllabus [here](./assets/Generative-AI-Syllabus.pdf)
