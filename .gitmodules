@@ -1,0 +1,12 @@
+[submodule "P1-Lightweight-FT-Foundation_model"]
+	path = P1-Lightweight-FT-Foundation_model
+	url = https://github.com/PraveenKumar-Rajendran/Lightweight-FT-Foundation_model
+[submodule "P2-LLM-CustomChatBot-with-RAG"]
+	path = P2-LLM-CustomChatBot-with-RAG
+	url = https://github.com/PraveenKumar-Rajendran/LLM-CustomChatBot-with-RAG
+[submodule "P3-AI-Photo-Editing-with-Inpainting"]
+	path = P3-AI-Photo-Editing-with-Inpainting
+	url = https://github.com/PraveenKumar-Rajendran/AI-Photo-Editing-with-Inpainting
+[submodule "P4-Personalized-Real-Estate-Agent"]
+	path = P4-Personalized-Real-Estate-Agent
+	url = https://github.com/PraveenKumar-Rajendran/Personalized-Real-Estate-Agent
